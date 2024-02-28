@@ -1,0 +1,5 @@
+{
+    "files.associations": {
+        "idf_iot_button.h": "c"
+    }
+}

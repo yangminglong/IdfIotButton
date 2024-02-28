@@ -16,7 +16,7 @@
 #include "esp_adc/adc_cali.h"
 #endif
 #include "unity.h"
-#include "iot_button.h"
+#include "idf_iot_button.h"
 #include "sdkconfig.h"
 
 static const char *TAG = "BUTTON TEST";
